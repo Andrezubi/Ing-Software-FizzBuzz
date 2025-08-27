@@ -21,8 +21,15 @@ function convertirFizzBuzz(x){
 }
 
 
-function FizzBuzz(){
-    return '1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz'
+function FizzBuzz(n){
+    var res='';
+    for (let i =1; i <=n; i++){
+       res=res+convertirFizzBuzz(i);
+       if(i!=n){
+        res=res+', '
+       }
+    }
+    return res;
 }
 
-export {convertirFizzBuzz};
+export {convertirFizzBuzz,FizzBuzz};

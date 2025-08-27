@@ -1,4 +1,4 @@
-import { convertirFizzBuzz } from "./FizzBuzz";    
+import { convertirFizzBuzz,FizzBuzz } from "./FizzBuzz";    
     
     
     describe("FizzBuzz", () => {
@@ -33,5 +33,8 @@ import { convertirFizzBuzz } from "./FizzBuzz";
 
   it("debe devolver la cadena de numeros y fizzbuzz", () => {
     expect(FizzBuzz(10)).toEqual('1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz');
+  });
+  it("debe devolver una cadena cualquiera  de numeros y fizzbuzz", () => {
+    expect(FizzBuzz(15)).toEqual('1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz');
   });
 });
