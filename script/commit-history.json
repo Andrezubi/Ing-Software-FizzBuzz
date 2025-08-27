@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Andres Zubieta",
+    "commit": {
+      "date": "2025-08-27T22:22:46.000Z",
+      "message": "feat: devuelve la cadena de un numero no multiplo de 5 o 3",
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 13,
+      "deletions": 10,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
