@@ -3,7 +3,7 @@ function convertirFizzBuzz(x){
         return 'Fizz';
     }
     else{
-        if(x===5){
+        if(x%5===0){
             return 'Buzz';
 
         }
