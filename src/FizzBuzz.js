@@ -1,7 +1,7 @@
 function convertirFizzBuzz(x){
     if(x%3===0){
         
-        if(x===15){
+        if(x%5===0){
             return 'FizzBuzz'
         }
         else{
