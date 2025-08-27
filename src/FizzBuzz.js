@@ -3,7 +3,13 @@ function convertirFizzBuzz(x){
         return 'Fizz';
     }
     else{
+        if(x===5){
+            return 'Buzz';
+
+        }
+        else{
         return ''+x;
+        }
     }
     
 }

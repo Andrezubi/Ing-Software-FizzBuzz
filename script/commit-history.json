@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0991b5b6721ff12971ac8d7ebaf2258f9840c77c",
     "author": "Andres Zubieta",
     "commit": {
       "date": "2025-08-27T22:32:42.000Z",
       "message": "feat: devuelve Fizz con cualquier numero multiplo de 3",
-      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/0991b5b6721ff12971ac8d7ebaf2258f9840c77c"
     },
     "stats": {
       "total": 16,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Andres Zubieta",
+    "commit": {
+      "date": "2025-08-27T22:58:46.000Z",
+      "message": "feat: devuelve Buzz a un multiplo de 5",
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 12,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
