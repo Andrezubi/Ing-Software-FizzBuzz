@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "90590eebc9851cbe0432ffc59ccb8bf2030022f5",
     "author": "Andres Zubieta",
     "commit": {
       "date": "2025-08-27T22:26:31.000Z",
       "message": "feat: devuelva el caracter de cualquier numero no multilpo de 3 o 5",
-      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/90590eebc9851cbe0432ffc59ccb8bf2030022f5"
     },
     "stats": {
       "total": 7,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Andres Zubieta",
+    "commit": {
+      "date": "2025-08-27T22:32:42.000Z",
+      "message": "feat: devuelve Fizz con cualquier numero multiplo de 3",
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 15,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
