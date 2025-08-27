@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "50a292c3402d8eb3cfa5e9a463d547f0d85dd246",
     "author": "Andres Zubieta",
     "commit": {
       "date": "2025-08-27T23:12:09.000Z",
       "message": "feat: devuelve FizzBuzz con cualquier numero multiplo de 5y 3",
-      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/50a292c3402d8eb3cfa5e9a463d547f0d85dd246"
     },
     "stats": {
       "total": 11,
@@ -131,5 +131,24 @@
     "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Andres Zubieta",
+    "commit": {
+      "date": "2025-08-27T23:15:30.000Z",
+      "message": "FEAT: devuelve una cade de numeros fizz y buzz",
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 87.5,
+    "test_count": 9,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

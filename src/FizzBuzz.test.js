@@ -30,4 +30,8 @@ import { convertirFizzBuzz } from "./FizzBuzz";
     it("debe devolver FizzBuzz a cualquier numero multiplo de 3 y 5", () => {
     expect(convertirFizzBuzz(30)).toEqual('FizzBuzz');
   });
+
+  it("debe devolver la cadena de numeros y fizzbuzz", () => {
+    expect(FizzBuzz(10)).toEqual('1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz');
+  });
 });
