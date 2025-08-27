@@ -22,5 +22,7 @@ import { convertirFizzBuzz } from "./FizzBuzz";
   it("debe devolver Buzz a caulquier numero multiplo de 5", () => {
     expect(convertirFizzBuzz(10)).toEqual('Buzz');
   });
-
+  it("debe devolver FizzBuzz a un numero multiplo de 3 y 5", () => {
+    expect(convertirFizzBuzz(15)).toEqual('FizzBuzz');
+  });
 });

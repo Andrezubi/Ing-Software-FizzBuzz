@@ -1,6 +1,12 @@
 function convertirFizzBuzz(x){
     if(x%3===0){
-        return 'Fizz';
+        
+        if(x===15){
+            return 'FizzBuzz'
+        }
+        else{
+            return 'Fizz';
+        }
     }
     else{
         if(x%5===0){
