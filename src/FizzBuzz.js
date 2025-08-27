@@ -1,4 +1,4 @@
-function convertirFizzBuzz(){
-    return '1';
+function convertirFizzBuzz(x){
+    return ''+x;
 }
 export {convertirFizzBuzz};
