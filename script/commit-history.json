@@ -152,18 +152,37 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "d40051225a96e3c659cd856289adb1a1419b0c96",
     "author": "Andres Zubieta",
     "commit": {
       "date": "2025-08-27T23:21:49.000Z",
       "message": "FEAT: cconvierte a cadena cualquier numero que sea ingresado",
-      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/d40051225a96e3c659cd856289adb1a1419b0c96"
     },
     "stats": {
       "total": 18,
       "additions": 14,
       "deletions": 4,
       "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Andres Zubieta",
+    "commit": {
+      "date": "2025-08-28T03:51:25.000Z",
+      "message": "feat: cambios de html y y prsenter par el deploy",
+      "url": "https://github.com/Andrezubi/Ing-Software-FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 13,
+      "deletions": 14,
+      "date": "2025-08-28"
     },
     "coverage": 100,
     "test_count": 10,
